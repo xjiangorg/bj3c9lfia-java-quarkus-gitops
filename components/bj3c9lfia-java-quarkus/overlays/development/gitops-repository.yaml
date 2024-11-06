@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: bj3c9lfia-java-quarkus-gitops-repository
+spec:
+  url: https://github.com/xjiangorg/bj3c9lfia-java-quarkus-gitops
